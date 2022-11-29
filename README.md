@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is luna's profile page! :wink:
-I’m learning programming stuffs now!
-:round_pushpin: KOREA. 
+- This is luna's profile page! :wink:
+- I’m learning programming stuffs now!
+- :round_pushpin: KOREA. 
 
 
 <!--
