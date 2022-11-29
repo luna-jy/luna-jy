@@ -3,7 +3,7 @@
 - This is luna's profile page! :wink:
 - I’m learning programming stuffs now!
 - :round_pushpin: KOREA. 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-jy&theme=dark&show_icons=nord)
 
 <!--
 **luna-jy/luna-jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
