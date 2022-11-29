@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is luna's profile page! :wink:
+🌱 I’m currently learning programming stuffs at a institue in Korea which is one of the greatest instituest !  
+
 <!--
 **luna-jy/luna-jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
