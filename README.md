@@ -3,7 +3,7 @@
 - This is luna's profile page! :wink:
 - I’m learning programming stuffs now!
 
--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-jy)](https://github.com/luna-jy/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-jy&theme=nord&show_icons=true)
 
 <!--
