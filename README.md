@@ -3,7 +3,9 @@
 This is luna's profile page! :wink:
 
 I’m learning programming stuffs now!
-:round_pushpin: I'm currently leaving in KOREA. :kr:
+
+:round_pushpin: I'm currently leaving in KOREA. 
+:kr:
 
 <!--
 **luna-jy/luna-jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
