@@ -39,4 +39,4 @@
 
 ## Contact
 
-- Email: jooyounㅎ.cairo@gmail.com
+- Email: jooyoun.cairo@gmail.com
