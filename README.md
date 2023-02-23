@@ -1,6 +1,6 @@
 
 # My Portfolio
-<br> Link to portfolio 💁‍ https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4
+<br> Link to portfolio 💁‍ https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 </br>
 
 ## Introduction
 
@@ -39,4 +39,4 @@
 
 ## Contact
 
-- Email: jooyougn.cairo@gmail.com
+- Email: jooyounㅎ.cairo@gmail.com
