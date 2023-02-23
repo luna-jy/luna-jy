@@ -22,7 +22,6 @@
                   저는 이 프로젝트에서 DB설계 및 근태관리,휴를 중점으로 맡았습니다. 
 
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,jQuery,nodejs,figma,git&theme=light)](https://skills.thijs.gg)
 -Java
 -JavaScript
 -jQuery
