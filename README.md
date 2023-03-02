@@ -23,19 +23,12 @@
                   저는 이 프로젝트에서 DB설계 및 근태관리,휴를 중점으로 맡았습니다. 
 
 ## Skills
--Java
--JavaScript
--jQuery
--Html
--css
--Node.js
--SQL
--Figma
--Git
--Oracle
--Android Studio
--STS
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
 
 
 ## Contact
