@@ -54,5 +54,7 @@ https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=
 </div>
 
 ## Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=mail&logoColor=white" />
-- Email: jooyoung.cairo@gmail.com
+
+<a href="mailto:jooyoung.cairo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooyoung.cairo@gmail.com"/></a></p>
+
+
