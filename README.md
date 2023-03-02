@@ -51,7 +51,7 @@
 ### Studying
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyjy404)](https://solved.ac/jyjy404/)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna-jy&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna-jy&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=luna-jy&show_icons=true">
 
 
