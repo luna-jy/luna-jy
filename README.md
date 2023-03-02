@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
 # My Portfolio
 <br> Link to portfolio 💁‍ https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 </br>
