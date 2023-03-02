@@ -49,7 +49,7 @@
 
 ### Studying
 <div>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud27)](https://solved.ac/wndud27/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyjy404)](https://solved.ac/jyjy404/)
 </div>
 
 <div align="center">
