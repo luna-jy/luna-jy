@@ -49,9 +49,9 @@
 </div>
 
 ### Studying
-<div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyjy404)](https://solved.ac/jyjy404/)
-</div>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna-jy&layout=compact"><br><br>
