@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jooyoung&fontSize=90" />
 
 # My Portfolio
-<br> Link to portfolio 💁‍ https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 </br>
+<br> Link to portfolio 💁‍
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Portfolio&logoColor=white" />
+https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 </br>
 
 ## Introduction
 
