@@ -41,6 +41,10 @@
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna-jy&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=luna-jy&show_icons=true">
+
+
 ## Contact
 
 - Email: jooyoung.cairo@gmail.com
