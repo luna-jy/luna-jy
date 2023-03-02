@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jooyoung&fontSize=90" />
 
 # My Portfolio
-	<a href="https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 "><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+<a href="https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 ">
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 
 
 ## Introduction
@@ -55,7 +56,7 @@
 </div>
 
 ## Contact
-
-<a href="mailto:jooyoung.cairo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooyoung.cairo@gmail.com"/></a></p>
+<a href="mailto:jooyoung.cairo@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooyoung.cairo@gmail.com"/></a>
 
 
