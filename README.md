@@ -47,9 +47,9 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-
+### Studying
 <div>
-	
+	[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{wndud27})
 </div>
 
 <div align="center">
