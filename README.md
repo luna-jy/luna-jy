@@ -61,5 +61,5 @@
 ## Contact
 <a href="mailto:jooyoung.cairo@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooyoung.cairo@gmail.com"/></a>
-
+<a href="https://blog.naver.com/dolce7y"><img src="https://img.shields.io/badge/Naver-03C75A?style=flate&logo=Naver&logoColor=white"/></a>
 
