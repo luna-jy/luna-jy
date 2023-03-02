@@ -2,7 +2,6 @@
 
 # My Portfolio
 <br> Link to portfolio 💁‍
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Portfolio&logoColor=white" />
 https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=4 </br>
 
 ## Introduction
@@ -46,11 +45,14 @@ https://www.notion.so/Jooyoung-s-portfolio-af3fa18b4b4f47128c657f54de139862?pvs=
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
+<div>
+</div>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna-jy&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=luna-jy&show_icons=true">
 </div>
 
 ## Contact
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=mail&logoColor=white" />
 - Email: jooyoung.cairo@gmail.com
