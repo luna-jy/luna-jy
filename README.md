@@ -52,8 +52,12 @@
 </div>
 
 ### Studying
-
+-How to Skill up myself?
+ 1. Baekjoon 사용하여 알고리즘 문제풀이를 통한 언어 실력 향상중입니다. 
+ 2. 이론적 학습의 갈증을 해결하기 위해 정보처리기사 자격증을 준비하여 1회차 필기 가답안 합격 상태입니다. 
+ 3. "왜"라는 질문을 통해 능동적 해결력을 기르기 위해 력합니다. 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyjy404)](https://solved.ac/jyjy404/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna-jy&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=luna-jy&show_icons=true">
 
