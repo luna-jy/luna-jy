@@ -52,12 +52,11 @@
 </div>
 
 ### Studying
-<div align="center">
-*How to Skill up myself?
+How to Skill up myself?
  - Baekjoon을 사용하여 알고리즘 문제풀이를 통한 언어 실력 향상중입니다. 
  - 이론적 학습의 갈증을 해결하기 위해 정보처리기사 자격증을 준비하여 2023년도 1회차 필기시험의 (가답안) 합격 상태입니다. 
  - "왜"라는 질문을 통해 능동적 해결력을 기르기 위해 노력합니다. 
-</div>
+
 <div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyjy404)](https://solved.ac/jyjy404/)
